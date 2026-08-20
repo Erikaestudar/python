@@ -14,13 +14,9 @@ for lancamento in lancamentos:
     
     # TODO: Atualize o saldo conforme o tipo de lançamento ('R' soma, 'D' subtrai)
     
-    if tipo != "R" and tipo != "D":
-        print("Digite uma operação válida! [R] Receita [D] Despesa")
-        break
-    
     if tipo == "R":
         saldo += valor
-    elif tipo == "D":
+    else:
         saldo -= valor
 
 # Imprima o saldo final com duas casas decimais
