@@ -1,0 +1,46 @@
+data,descricao,categoria,valor,tipo
+2026-07-01,Salário,receita,5000.00,entrada
+2026-07-02,Aluguel,moradia,1200.00,saida
+2026-07-03,Supermercado,alimentacao,430.00,saida
+2026-07-05,Netflix,lazer,55.90,saida
+2026-07-06,Farmácia,saude,62.00,saida
+2026-07-09,Restaurante,alimentacao,95.00,saida
+2026-07-11,Uber,transporte,38.00,saida
+2026-07-14,Conta de Luz,moradia,165.00,saida
+2026-07-15,Internet,moradia,100.00,saida
+2026-07-18,Academia,saude,99.00,saida
+2026-07-22,Combustível,transporte,230.00,saida
+2026-07-25,Curso de Inglês,educacao,180.00,saida
+2026-07-28,Cinema,lazer,60.00,saida
+2026-07-30,Aporte Reserva de Emergência,poupanca,500.00,saida
+2026-08-01,Salário,receita,5000.00,entrada
+2026-08-02,Aluguel,moradia,1200.00,saida
+2026-08-04,Supermercado,alimentacao,470.00,saida
+2026-08-05,Netflix,lazer,55.90,saida
+2026-08-08,Consulta Médica,saude,200.00,saida
+2026-08-10,Restaurante,alimentacao,140.00,saida
+2026-08-12,Freelance,receita,600.00,entrada
+2026-08-13,Uber,transporte,52.00,saida
+2026-08-14,Conta de Luz,moradia,190.00,saida
+2026-08-15,Internet,moradia,100.00,saida
+2026-08-18,Academia,saude,99.00,saida
+2026-08-20,Roupas,vestuario,220.00,saida
+2026-08-22,Combustível,transporte,260.00,saida
+2026-08-25,Curso de Inglês,educacao,180.00,saida
+2026-08-29,Show,lazer,150.00,saida
+2026-08-30,Aporte Reserva de Emergência,poupanca,500.00,saida
+2026-09-01,Salário,receita,5000.00,entrada
+2026-09-02,Aluguel,moradia,1200.00,saida
+2026-09-03,Supermercado,alimentacao,450.00,saida
+2026-09-05,Netflix,lazer,55.90,saida
+2026-09-07,Farmácia,saude,89.00,saida
+2026-09-10,Restaurante,alimentacao,120.00,saida
+2026-09-12,Delivery,alimentacao,85.00,saida
+2026-09-13,Uber,transporte,45.00,saida
+2026-09-14,Conta de Luz,moradia,180.00,saida
+2026-09-15,Internet,moradia,100.00,saida
+2026-09-18,Academia,saude,99.00,saida
+2026-09-20,Presente de Aniversário,outros,130.00,saida
+2026-09-22,Combustível,transporte,250.00,saida
+2026-09-25,Curso de Inglês,educacao,180.00,saida
+2026-09-30,Aporte Reserva de Emergência,poupanca,500.00,saida
