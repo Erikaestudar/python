@@ -13,23 +13,26 @@ Ele roda 100% local com [Ollama](https://ollama.com), sem custo e sem enviar dad
 ## Estrutura do Repositório
 
 ```
-AI-assistant/
+AI_assistan_project/
   README.md
+  instrucao_desafio.md       # Enunciado do desafio
   data/                      # Base de conhecimento (dados fictícios)
-  docs/                      # Documentação do desafio (6 passos)
-  src/                       # Código da aplicação (Streamlit)
+  docs/                      # Documentação dos passos 1, 2, 3, 5 e 6
+  src/                       # Aplicação Streamlit (passo 4)
+    app.py
+    requirements.txt
 ```
 
 ## Documentação
 
-| Passo | Arquivo |
-|---|---|
+| Passo                     | Arquivo                                                              |
+| ------------------------- | -------------------------------------------------------------------- |
 | 1. Documentação do Agente | [`docs/01-documentacao-agente.md`](./docs/01-documentacao-agente.md) |
-| 2. Base de Conhecimento | [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md) |
-| 3. Prompts do Agente | [`docs/03-prompts.md`](./docs/03-prompts.md) |
-| 4. Aplicação Funcional | [`src/app.py`](./src/app.py) |
-| 5. Avaliação e Métricas | [`docs/04-metricas.md`](./docs/04-metricas.md) |
-| 6. Pitch | [`docs/05-pitch.md`](./docs/05-pitch.md) |
+| 2. Base de Conhecimento   | [`docs/02-base-conhecimento.md`](./docs/02-base-conhecimento.md)     |
+| 3. Prompts do Agente      | [`docs/03-prompts.md`](./docs/03-prompts.md)                         |
+| 4. Aplicação Funcional    | [`src/app.py`](./src/app.py)                                         |
+| 5. Avaliação e Métricas   | [`docs/04-metricas.md`](./docs/04-metricas.md)                       |
+| 6. Pitch                  | [`docs/05-pitch.md`](./docs/05-pitch.md)                             |
 
 ## Como Rodar
 
